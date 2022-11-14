@@ -1,2 +1,2 @@
 # Libreria
-Proyecto realizado en 2021. Consiste en el sistemas de una pequeña librería realizada en C con enfoque es el sistema operativo Linux
+Project carried out in 2021. It consists of the systems of a small library made in C with a focus on the Linux operating system. Project already finished.
